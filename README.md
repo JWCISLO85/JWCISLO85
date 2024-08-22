@@ -7,7 +7,7 @@
   - [Installing osticket](https://github.com/JWCISLO85/osticket-prereqs)
   - 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/JWCISLO85/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWCISLO85/Inspecting-Network-Traffic-)
 
 <h2>🤳Connect with me:</h2>
