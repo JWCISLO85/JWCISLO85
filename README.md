@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Home SIEM Lab Elastic Stack SIEM] (https://github.com/JWCISLO85/Home-SIEM-Lab)
+- [Home SIEM Lab Elastic Stack SIEM](https://github.com/JWCISLO85/Home-SIEM-Lab)
 
 <h2>🤳Connect with me:</h2>
 
