@@ -9,6 +9,10 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/JWCISLO85/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWCISLO85/Inspecting-Network-Traffic-)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Home SIEM Elastic Stack SIEM]
+
 <h2>🤳Connect with me:</h2>
 
 
