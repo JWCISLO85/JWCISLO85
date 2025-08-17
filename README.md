@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> Windows Server Administration</b>
-- [Setting up Microsoft DHCP Server Failover](https://github.com/JWCISLO85/System-Administration/blob/main/Microsoft%20DHCP%20Failover)
+- [Setting up Microsoft DHCP Server Failover](https://github.com/JWCISLO85/System-Administration/blob/main/DHCP%20Failover%20server.md)
 - [System Management](https://github.com/JWCISLO85/System-Administration/blob/main/System%20Management.md)
 - <b>OsTicket (Help Desk Ticketing System)</b>
   - [Installing Osticket](https://github.com/JWCISLO85/osticket-prereqs)
