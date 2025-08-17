@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+-<b>Windows Server Administartion</b>
+-[Setting up Microsoft DHCP Server Failover]
+
 - <b>OsTicket (Help Desk Ticketing System)</b>
   - [Installing Osticket](https://github.com/JWCISLO85/osticket-prereqs)
   - [Post Configration of Osticket](https://github.com/JWCISLO85/os-ticket-post-install-config)
