@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
--<b> Windows Server Administartion</b>
+- <b> Windows Server Administartion</b>
 - [Setting up Microsoft DHCP Server Failover](https://github.com/JWCISLO85/System-Administration)
 
 - <b>OsTicket (Help Desk Ticketing System)</b>
