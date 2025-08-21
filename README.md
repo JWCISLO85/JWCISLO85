@@ -4,7 +4,7 @@
 
 - <b> Hardware- Taking a Computer Apart-Complete Disassembly Guide </b>
 
--[Taking a Computer Apart-Complete Disassembly Guide](https://github.com/JWCISLO85/Taking-a-computer-apart)
+- [Taking a Computer Apart-Complete Disassembly Guide](https://github.com/JWCISLO85/Taking-a-computer-apart)
 
 - <b> Windows Server Administration</b>
 - [Setting up Microsoft DHCP Server Failover](https://github.com/JWCISLO85/System-Administration/blob/main/DHCP%20Failover%20server.md)
