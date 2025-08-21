@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b> Hardware- Taking a Computer Apart-Complete Disassembly Guide O</b>
+
 - <b> Windows Server Administration</b>
 - [Setting up Microsoft DHCP Server Failover](https://github.com/JWCISLO85/System-Administration/blob/main/DHCP%20Failover%20server.md)
 - [System Management](https://github.com/JWCISLO85/System-Administration/blob/main/System%20Management.md)
@@ -11,6 +13,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JWCISLO85/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWCISLO85/Inspecting-Network-Traffic-)
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
