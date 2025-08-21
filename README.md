@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Hardware- Taking a Computer Apart-Complete Disassembly Guide </b>
+- <b> Hardware Projects</b>
 
 - [Taking a Computer Apart-Complete Disassembly Guide](https://github.com/JWCISLO85/Taking-a-computer-apart)
 
