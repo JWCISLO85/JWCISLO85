@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Hardware- Taking a Computer Apart-Complete Disassembly Guide O</b>
+- <b> Hardware- Taking a Computer Apart-Complete Disassembly Guide </b>
+
 -[Taking a Computer Apart-Complete Disassembly Guide](https://github.com/JWCISLO85/Taking-a-computer-apart)
 
 - <b> Windows Server Administration</b>
