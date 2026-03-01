@@ -16,6 +16,10 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/JWCISLO85/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JWCISLO85/Inspecting-Network-Traffic-)
 
+<h2>Python Projects</h2>
+
+- [Python Email Parser] (https://github.com/JWCISLO85/
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -29,3 +33,4 @@
 
 
 [linkedin]: https://linkedin.com/in/jonathanwcislo
+
