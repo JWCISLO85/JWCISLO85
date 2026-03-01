@@ -18,7 +18,7 @@
 
 <h2>Python Projects</h2>
 
-- [Python Email Parser] (https://github.com/JWCISLO85/
+- [Python Email Parser] (https://github.com/JWCISLO85/python-email-parser
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
