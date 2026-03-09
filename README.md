@@ -20,6 +20,8 @@
 
 - [Python Email Parser](https://github.com/JWCISLO85/python-email-parser)
 
+<h2>Setting up a secure hub and spoke network with Terraform and AWS</h2>
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
