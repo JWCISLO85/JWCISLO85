@@ -22,7 +22,7 @@
 
 <h2>Setting up a Secure hub-and-spoke Network with Terraform and AWS</h2>
 
-- [Secure Hub-and-Spoke Network Project (https://github.com/JWCISLO85/aws-hub-spoke-terraform)]
+- [Secure Hub-and-Spoke Network Project] (https://github.com/JWCISLO85/aws-hub-spoke-terraform)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
